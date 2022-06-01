@@ -22,7 +22,7 @@
         <p><em>This web document is representative of our coursework while enrolled in Women's Coding Certificate at Massachusettes Institute of Technology. We have been working towards better developing with Javascript ( JS ), Hypertext Markup Language ( HTML ), and Cascading Style Sheets ( CSS ) .</em></p>
 
 
-
+    <p>
         Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.
     </p>
   </main>
