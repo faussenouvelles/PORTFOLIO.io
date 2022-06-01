@@ -29,7 +29,7 @@
 
   <footer class="mastfoot mt-auto">
     <div class="inner">
-      <p>Cover template for <a href="https://getbootstrap.com/">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+      <p>Web Design for Massachusettes Institute of Technology Women's Coding Certificate Course <a href="https://executive-ed.xpro.mit.edu/professional-certificate-coding-womens-cohort"> MIT 2022</a>, by <a href="https://github.com/faussenouvelles"></a>.</p>
     </div>
   </footer>
 </div>
