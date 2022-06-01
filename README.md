@@ -1,5 +1,6 @@
 <html lang="en">
   <body class="text-center">
+    <center>
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="masthead mb-auto">
     <div class="inner">
@@ -30,6 +31,7 @@
       <p>Web Design for Massachusettes Institute of Technology Women's Coding Certificate Course <a href="https://executive-ed.xpro.mit.edu/professional-certificate-coding-womens-cohort"> MIT 2022</a>, by <a href="https://github.com/faussenouvelles">eletheia_sweet</a>.</p>
     </div>
   </footer>
+</center>
 </div>
 </body>
 </html>
