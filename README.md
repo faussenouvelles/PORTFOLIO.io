@@ -1,7 +1,6 @@
 <html lang="en">
   <body class="text-center">
     <body style="background-color: #FFE4E1;">
-      <font style="font-color: #2F4F4F";>
         <center>
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="masthead mb-auto">
