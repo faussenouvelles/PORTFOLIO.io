@@ -1,6 +1,11 @@
 <html lang="en">
   <body class="text-center">
-    <body style="background-color: #FFE4E1 inset 0 0 5rem transparent;">
+    <body style="background-color: #FFE4E1;
+  padding: .25rem 0;
+  font-weight: 700;
+  color: rgba(187, 7, 160, 0.5);
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;">
         <center>
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="masthead mb-auto">
