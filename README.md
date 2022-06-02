@@ -9,7 +9,7 @@
       <h3> · Portfolio 2022 · </h3>
       <br>
       <nav class="nav nav-masthead justify-content-center">
-        <a class="nav-link" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAINE</a>
+        <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAINE</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/PROJECTS.io/">PROJECTS</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/ARCHIVES.io/">ARCHIVES</a>
       </nav>
