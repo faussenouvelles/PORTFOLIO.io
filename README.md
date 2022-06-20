@@ -16,8 +16,6 @@
     </div>
   </header>
 
-  <p>**************** INSERT CAROUSEL ******************</p>
-
   <main role="main" class="inner cover">
     <h1 class="cover-heading">Portfolio 2022</h1>
     <p class="lead">
