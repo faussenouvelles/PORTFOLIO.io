@@ -37,7 +37,6 @@
   </footer>
 </div>
 </center>
-</font>
 </body>
 </html>
 
