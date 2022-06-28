@@ -59,9 +59,4 @@ SOFTWARE.
       
     </div>
   </footer>
-</div>
-</center>
-
-</body>
-</html>
 
