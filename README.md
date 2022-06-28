@@ -20,6 +20,7 @@
     <h1 class="cover-heading">Portfolio 2022</h1>
     <p class="lead">
         <p><em>This web document is representative of our coursework while enrolled in Women's Coding Certificate at Massachusettes Institute of Technology. We have been working towards better developing with Javascript ( JS ), Hypertext Markup Language ( HTML ), and Cascading Style Sheets ( CSS ) .</em></p>
+        <p><img src="https://raw.githubusercontent.com/faussenouvelles/PORTFOLIO.io/main/Screen%20Shot%202022-06-17%20at%202.43.55%20PM.png" width="650" height="471"></p>
     <br>
      <p>After volunteering & traveling abroad, coding languages became an interest alongside a foundation in French & foreign language. </p>
      <p>A dream of mine is coding an intelligent application to program interface designed to communicate & personalize a linguistic programming tool, for both English & French translations.</p>
