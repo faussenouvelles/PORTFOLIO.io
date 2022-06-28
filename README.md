@@ -26,7 +26,6 @@
       <p> I've worked providing information to impoverished communities regarding their healthcare, human rights, and education programs, as well as working as well as volunteering as a language tutor & after school care provider.</p>
       <p> This past summer was spent cultivating lilies at a small business located in an island town on the Maine coastline, after working several years working in New York City as an reprographics specialist & tutor. </p>
       <p> In my free time I handmake reticella lace & have been learning to program my keyboard into a soundbox with a raspberryPi.</p>
-  </main>
     </p>
 
   <footer class="mastfoot mt-auto">
@@ -57,6 +56,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 </p>
+      
     </div>
   </footer>
 </div>
