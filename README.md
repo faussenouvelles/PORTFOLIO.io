@@ -22,13 +22,12 @@
         <p><em>This web document is representative of our coursework while enrolled in Women's Coding Certificate at Massachusettes Institute of Technology. We have been working towards better developing with Javascript ( JS ), Hypertext Markup Language ( HTML ), and Cascading Style Sheets ( CSS ) .</em></p>
     <br>
      <p>After volunteering & traveling abroad, coding languages became an interest alongside a foundation in French & foreign language. </p>
-     <p><A dream of mine is coding an intelligent application to program interface designed to communicate & personalize a linguistic programming tool, for both English & French translations.</p>
+     <p>A dream of mine is coding an intelligent application to program interface designed to communicate & personalize a linguistic programming tool, for both English & French translations.</p>
       <p> I've worked providing information to impoverished communities regarding their healthcare, human rights, and education programs, as well as working as well as volunteering as a language tutor & after school care provider.</p>
       <p> This past summer was spent cultivating lilies at a small business located in an island town on the Maine coastline, after working several years working in New York City as an reprographics specialist & tutor. </p>
       <p> In my free time I handmake reticella lace & have been learning to program my keyboard into a soundbox with a raspberryPi.</p>
   </main>
     </p>
-  </main>
 
   <footer class="mastfoot mt-auto">
     <div class="inner">
