@@ -1,151 +1,40 @@
-/*
- * Globals
- */
-<div>
-a,
-a:focus,
-a:hover {
-  color: #2F4F4F;
-}
-
-/* Custom default button */
-.btn-secondary,
-.btn-secondary:hover,
-.btn-secondary:focus {
-  color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #fff;
-  border: .05rem solid #fff;
-}
-
-
-
-/*
- * Base structure
- */
-
-html,
-body {
-  height: 100%;
-  background-color: #fcfcf7;;
-}
-
-body {
-  display: -ms-flexbox;
-  display: flex;
-  color: #2F4F4F;
-  font-family: 'PT Sans Caption', sans-serif;
-  text-shadow: 0 .05rem .1rem rgba(187, 7, 160, 0.5);
-  box-shadow: inset 0 0 5rem rgba(250, 248, 250, 0.5);
-  /*
-      ----------------------------------
-              UPDATE IMAGE BELOW
-      ----------------------------------
-  */
-  
-  
-
- 
-  background: url('00.jpg') no-repeat center center fixed;  
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-
-}
-a:link {
-  padding: .25rem 0;
-  font-weight: 700;
-  color: rgba(133, 79, 141, 0.675);
-  background-color: transparent;
-  border-bottom: .25rem solid transparent;
-
-}
-
-.cover-container {
-  max-width: 42em;
-}
-
-
-/*
- * Header
- */
-.masthead {
-  margin-bottom: 2rem;
-}
-
-.masthead-brand {
-  margin-bottom: 0;
-}
-
-.nav-masthead .nav-link {
-  padding: .25rem 0;
-  font-weight: 700;
-  color: rgba(187, 7, 160, 0.5);
-  background-color: transparent;
-  border-bottom: .25rem solid transparent;
-}
-
-.nav-masthead .nav-link:hover,
-.nav-masthead .nav-link:focus {
-  border-bottom-color: rgba(255, 255, 255, .25);
-}
-
-.nav-masthead .nav-link + .nav-link {
-  margin-left: 1rem;
-}
-
-.nav-masthead .active {
-  color: rgba(9, 1, 36, 0.851);
-  border-bottom-color: rgba(255, 255, 255, 0.882);
-}
-
-@media (min-width: 48em) {
-  .masthead-brand {
-    float: center;
-  }
-  .nav-masthead {
-    float: center;
-  }
-}
-
-
-/*
- * Cover
- */
-.cover {
-  padding: 0 1.5rem;
-}
-.cover .btn-lg {
-  padding: .75rem 1.25rem;
-  font-weight: 700;
-}
-a:link {
-  padding: .25rem 0;
-  font-weight: 700;
-  color: rgba(133, 79, 141, 0.675);
-  background-color: transparent;
-  border-bottom: .25rem solid transparent;
-
-}
-
-
-/*
- * Footer
- */
-.mastfoot {
-  color: rgba(255, 255, 255, .5);
-}
-</div>
+<!doctype html>
 <html lang="en">
-  <body class="text-center">
-    <body style="background-color: #FFE4E1;">
-        <center>
-    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
-  <header class="masthead mb-auto">
-    <div class="inner">
-      <h3 class="masthead-brand">Massachusettes Institute of Technology</h3>
-      <h3> · Portfolio 2022 · </h3>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v4.0.1">
+    <title>PROJECTS · MIT 2022</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="https://raw.githubusercontent.com/faussenouvelles/PORTFOLIO.io/main/****portfolio.css" rel="stylesheet">
+  </head>
+<body class="text-right">
+  <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+<header class="masthead mb-auto">
+  <div class="inner">
+    <h1 class="masthead-brand">Massachusettes Institute of Technology · Projects 2022 · </h1>
       <br>
       <nav class="nav nav-masthead justify-content-center" >
         <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAIN</a>
