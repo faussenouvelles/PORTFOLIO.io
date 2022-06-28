@@ -1,13 +1,11 @@
-<!doctype html>
-<html lang="en">
-    <!-- Custom styles for this template -->
-    <link href="https://raw.githubusercontent.com/faussenouvelles/PORTFOLIO.io/main/****portfolio.css" rel="stylesheet">
-  </head>
-<body class="text-right">
-  <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
-<header class="masthead mb-auto">
-  <div class="inner">
-    <h1 class="masthead-brand">Massachusettes Institute of Technology · Projects 2022 · </h1>
+<body class="text-center">
+    <body style="background-color: #FFE4E1;">
+        <center>
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+  <header class="masthead mb-auto">
+    <div class="inner">
+      <h3 class="masthead-brand">Massachusettes Institute of Technology</h3>
+      <h3> · Portfolio 2022 · </h3>
       <br>
       <nav class="nav nav-masthead justify-content-center" >
         <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAIN</a>
