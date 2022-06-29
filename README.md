@@ -1,7 +1,6 @@
 <body class="text-center">
 <body style="height:100%;background-color:#fcfcf7;display:flex;color:#2F4F4F;font-family:'PT Sans Caption', sans-serif;text-shadow:0 .05rem .1rem rgba(187, 7, 160, 0.5);box-shadow:inset 0 0 5rem rgba(250, 248, 250, 0.5);background:url('00.jpg') no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;">
 <link style="padding: .25rem 0;font-weight: 700;color: rgba(133, 79, 141, 0.675);background-color: transparent;border-bottom: .25rem solid transparent">
-        <a style="a;a: focus;a:hover;color: #2F4F4F;>
         <center>
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="masthead mb-auto">
@@ -11,7 +10,6 @@
       <h3> · Portfolio 2022 · </h3>
       <br>
       <nav class="nav nav-masthead justify-content-center;>
-        <a style=.masthead margin-bottom: 2rem;.masthead-brand:margin-bottom: 0;.nav-masthead nav-link:padding: .25rem 0;font-weight: 700;color: rgba(187, 7, 160, 0.5);background-color: transparent;border-bottom: .25rem solid transparent;.nav-masthead nav-link:hover,.nav-masthead .nav-link:focus:border-bottom-color: rgba(255, 255, 255, .25);.nav-masthead .nav-link + .nav-link:margin-left: 1rem;.nav-masthead active: color: rgba(9, 1, 36, 0.851);border-bottom-color: rgba(255, 255, 255, 0.882);@media (min-width: 48em);.masthead-brand:float: center;.nav-masthead:float: center;">
         <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAIN</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/PROJECTS.io/">PROJECTS</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/ARCHIVES.io/">ARCHIVES</a>
