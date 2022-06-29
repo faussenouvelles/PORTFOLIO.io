@@ -12,8 +12,6 @@
         <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAIN</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/PROJECTS.io/">PROJECTS</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/ARCHIVES.io/">ARCHIVES</a>
-        </a>
-      </nav>
 
   <main role="main" class="inner cover">
     <h1 class="cover-heading">Portfolio 2022</h1>
