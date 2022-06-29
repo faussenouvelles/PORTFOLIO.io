@@ -9,8 +9,7 @@
       <h3 class="masthead-brand">Massachusettes Institute of Technology</h3>
       <h3> · Portfolio 2022 · </h3>
       <br>
-      <nav class="nav nav-masthead justify-content-center">
-              <nav style:".masthead margin-bottom: 2rem;.masthead-brand:margin-bottom: 0;.nav-masthead nav-link:padding: .25rem 0;font-weight: 700;color: rgba(187, 7, 160, 0.5);background-color: transparent;border-bottom: .25rem solid transparent;.nav-masthead nav-link:hover,.nav-masthead .nav-link:focus:border-bottom-color: rgba(255, 255, 255, .25);.nav-masthead .nav-link + .nav-link:margin-left: 1rem;.nav-masthead active: color: rgba(9, 1, 36, 0.851);border-bottom-color: rgba(255, 255, 255, 0.882);@media (min-width: 48em);.masthead-brand:float: center;.nav-masthead:float: center;">
+      <nav class="nav nav-masthead justify-content-center;nav style:".masthead margin-bottom: 2rem;.masthead-brand:margin-bottom: 0;.nav-masthead nav-link:padding: .25rem 0;font-weight: 700;color: rgba(187, 7, 160, 0.5);background-color: transparent;border-bottom: .25rem solid transparent;.nav-masthead nav-link:hover,.nav-masthead .nav-link:focus:border-bottom-color: rgba(255, 255, 255, .25);.nav-masthead .nav-link + .nav-link:margin-left: 1rem;.nav-masthead active: color: rgba(9, 1, 36, 0.851);border-bottom-color: rgba(255, 255, 255, 0.882);@media (min-width: 48em);.masthead-brand:float: center;.nav-masthead:float: center;">
         <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAIN</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/PROJECTS.io/">PROJECTS</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/ARCHIVES.io/">ARCHIVES</a>
