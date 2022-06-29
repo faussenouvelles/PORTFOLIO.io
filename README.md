@@ -9,7 +9,6 @@
       <h3 class="masthead-brand">Massachusettes Institute of Technology</h3>
       <h3> · Portfolio 2022 · </h3>
       <br>
-      <nav class="nav nav-masthead justify-content-center;>
         <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAIN</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/PROJECTS.io/">PROJECTS</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/ARCHIVES.io/">ARCHIVES</a>
